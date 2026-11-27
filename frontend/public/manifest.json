@@ -1,0 +1,25 @@
+{
+  "short_name": "LandDelay AI",
+  "name": "LandDelay AI | Infrastructure Delay Analytics",
+  "icons": [
+    {
+      "src": "/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/logo-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/logo.png",
+      "type": "image/png",
+      "sizes": "1024x1024"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#0B1320",
+  "theme_color": "#0B1320",
+  "display": "standalone"
+}
